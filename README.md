@@ -5,11 +5,11 @@ Use a fade in animation for NetworkImageView
 
 In java code:
 
-    FadeInNetworkImageView image = (FadeInNetworkImageView) findbyId(R.id.image);
+    FadeInNetworkImageView image = (FadeInNetworkImageView) findViewById(R.id.image);
 
 or
 
-    NetworkImageView image = (NetworkImageView) findbyId(R.id.image);
+    NetworkImageView image = (NetworkImageView) findViewById(R.id.image);
   
 In xml:
 
