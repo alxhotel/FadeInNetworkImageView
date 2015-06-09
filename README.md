@@ -1,7 +1,7 @@
 # FadeInNetworkImageView
 Use a fade in animation for NetworkImageView
 
-## Usage
+## Example
 
 In java code:
 
